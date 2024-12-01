@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: jaggarapup/b855:latest
+        image: jaggarapup/b871finalimage
         ports:
         - containerPort: 8080
